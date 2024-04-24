@@ -238,6 +238,9 @@ trafficmanager.net:
 cloudapp.net:
   name: Microsoft Azure
   link: https://azure.microsoft.com
+azurefd.net:
+  name: Microsoft Azure Front Door CDN
+  link: https://learn.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain
 chinacloudsites.cn:
   name: 世纪互联旗下上海蓝云（承载 Azure 中国）
   link: https://www.21vbluecloud.com/
