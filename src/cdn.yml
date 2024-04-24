@@ -226,6 +226,9 @@ mschcdn.com:
 v0cdn.net:
   name: Microsoft Azure CDN
   link: https://azure.microsoft.com/en-us/services/cdn/
+t-msedge.net:
+  name: Microsoft Azure CDN
+  link: https://azure.microsoft.com/en-us/services/cdn/
 azurewebsites.net:
   name: Microsoft Azure App Service
   link: https://azure.microsoft.com/en-us/services/app-service/
