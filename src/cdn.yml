@@ -568,6 +568,9 @@ tdnsstic[1-4].cn.com:
 cdn-go.cn:
   name: 腾讯云 CDN
   link: https://cloud.tencent.com/product/cdn-scd
+dnse[0-5].com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/teo
 tcdnlive.com:
   name: 腾讯云直播 CDN
   link: https://cloud.tencent.com/product/cdn-scd
